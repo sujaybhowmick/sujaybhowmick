@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaybhowmick&label=Profile%20views&color=0e75b6&style=flat" alt="sujaybhowmick" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujaybhowmick" alt="sujaybhowmick" /></a> </p>
-
 - 💬 Ask me about **Java,Python, PHP, SpringFramework, Apache Kafka**
 
 <h3 align="left">Connect with me:</h3>
